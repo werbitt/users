@@ -5,4 +5,4 @@ packages:
 - users-postgresql-simple/
 - users-test/
 extra-deps: []
-resolver: lts-7.9
+resolver: nightly-2019-08-19
